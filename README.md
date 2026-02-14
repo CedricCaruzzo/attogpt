@@ -8,9 +8,9 @@ From [Andrej Karpathy's microgpt](https://gist.github.com/karpathy/8627fe009c40f
 
 How small can a working GPT get?
 
-- **microgpt** by Andrej Karpathy: 240 lines
-- **picogpt**: 64 lines (shared as QR code)
-- **femtogpt**: 53 lines (shared as 3000-digit prime number)
+- **[microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)** by Andrej Karpathy: 240 lines
+- **[picogpt](https://github.com/Kuberwastaken/picogpt/blob/main/picogpt.py)**: 64 lines (shared as QR code)
+- **[femtogpt](https://github.com/MatchaOnMuffins/femtoGPT/blob/main/femtoGPT.py)**: 53 lines (shared as 3000-digit prime number)
 - **attogpt**: **31 lines** (shared as 52 IBM punch cards!)
 
 ## Quick Start
